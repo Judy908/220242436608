@@ -1,6 +1,9 @@
-assignment 0.
+Assignment 0.
+
 Question 1:
+
 Why is “data mining”used to describe the entire knowledge discovery process?
+
  Data mining is  used to describe the entire knowledge discovery process because of the following; 
 
 > It is the central and core step that uses algorithms to find the system, relationships or hidden information from the data.
@@ -8,6 +11,7 @@ Why is “data mining”used to describe the entire knowledge discovery process?
 > It is a simple and easier word to be understood and it has become popular especially, in commercial tools.
 
 Question 2:
+
  What are differences between data wrangling, scanning, and filtering in data mining?
 
 Data wrangling:
