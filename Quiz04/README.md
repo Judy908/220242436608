@@ -97,11 +97,11 @@ step3: To generate frequent 2-items sets, L2
    The frequent item sets with minimum supoortof 40% are:
   
 
-   1-item sets:{{Bread},{Milk},{Beer},{Diaper},{Coke}}
+   1-item sets: {{Bread},{Milk},{Beer},{Diaper},{Coke}}
   
-   2-item sets:{{Bread,Milk},{Bread, Beer},{Bread, Diaper},{Milk, Diaper},{Milk, Coke},{Beer, Diaper},{Diaper,Coke}}
+   2-item sets: {{Bread,Milk},{Bread, Beer},{Bread, Diaper},{Milk, Diaper},{Milk, Coke},{Beer, Diaper},{Diaper,Coke}}
   
-   3-item sets: L3= {{Bread,Milk,Diaper},{Bread, Beer, Diaper},{Milk,Diaper,Coke}}
+   3-item sets: {{Bread,Milk,Diaper},{Bread, Beer, Diaper},{Milk,Diaper,Coke}}
 
 
 
