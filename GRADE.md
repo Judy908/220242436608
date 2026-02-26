@@ -20,5 +20,5 @@
 | Assignment 3       |  13%    |      56.4 |                |                                              |
 | Assignment 4       |  13%    |       0.0 |                | Copy & Paste work from other sources/student |
 | Test II            |  15%    |           |                |                                              |
-| Assignment 5       |   6%    |           |                |                                              |
-| **Total**          | **100%**|  **47.61**|   **28.56/60** |                                              |
+| Assignment 5       |   6%    |     100.0 |                |                                              |
+| **Total**          | **100%**|  **51.80**|   **31.08/60** |                                              |
